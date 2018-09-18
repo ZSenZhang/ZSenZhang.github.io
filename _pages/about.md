@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zesen Zhang(张泽森)"
+title: "Zesen Zhang(张泽森) - Jason Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
