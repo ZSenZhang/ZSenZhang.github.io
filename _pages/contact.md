@@ -13,5 +13,5 @@ Office: 1-441 SEIEE Building, 800 Dongchuan Rd, Shanghai, China 200240
 
 Email
 ======
-* zesenzhang [at] gmail.com
-* 625382031 [at] sjtu.edu.cn
+* [zesenzhang98 [at] gmail.com](zesenzhang98@gmail.com)
+* [625382031 [at] sjtu.edu.cn](625382031@sjtu.edu.cn)
