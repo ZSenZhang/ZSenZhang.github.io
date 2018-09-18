@@ -60,9 +60,6 @@ Skills
 ======
 * Computer Languages &nbsp &nbsp <i>Proficient in C/C++; Familiar with Java, Python, html</i>
 * Language for Hardware &nbsp &nbsp <i>C, Verilog VHDL;</i>
-<!--   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3 -->
 * Other Tools &nbsp &nbsp <i>MATLAB, LaTeX, Multisim</i>
   
 <!-- Talks
