@@ -61,9 +61,9 @@ Leadership
 
 Skills
 ======
-* Computer Languages &nbsp &nbsp <i>Proficient in C/C++; Familiar with Java, Python, html</i>
-* Language for Hardware &nbsp &nbsp <i>C, Verilog VHDL;</i>
-* Other Tools &nbsp &nbsp <i>MATLAB, LaTeX, Multisim</i>
+* Computer Languages  <i>Proficient in C/C++; Familiar with Java, Python, html</i>
+* Language for Hardware  <i>C, Verilog VHDL;</i>
+* Other Tools  <i>MATLAB, LaTeX, Multisim</i>
   
 <!-- Talks
 ======
