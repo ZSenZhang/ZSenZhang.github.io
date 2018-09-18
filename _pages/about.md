@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="images/zesenzhang.png" width = "80%" />
+<img src="images/zesenzhang.jpg" width = "80%" />
 
 Biography
 ======
