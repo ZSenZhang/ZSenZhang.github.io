@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Zesen Zhang"
 permalink: /cv/
 author_profile: true
 redirect_from:
