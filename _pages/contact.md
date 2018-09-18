@@ -7,8 +7,6 @@ redirect_from:
   - /contact
 ---
 
-{% include base_path %}
-
 School of Cyber Security, Shanghai Jiao Tong University
 
 Office: 1-441 SEIEE Building, 800 Dongchuan Rd, Shanghai, China 200240
