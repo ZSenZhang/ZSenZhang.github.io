@@ -6,14 +6,11 @@ author_profile: true
 redirect_from:
   - /contact
 ---
-
-{% include base_path %}
-
 School of Cyber Security, Shanghai Jiao Tong University
 
 Office: 1-441 SEIEE Building, 800 Dongchuan Rd, Shanghai, China 200240
 
-Email
-======
-* zesenzhang [at] gmail.com
-* 625382031 [at] sjtu.edu.cn
+Email: 
+*zesenzhang [at] gmail.com
+*625382031 [at] sjtu.edu.cn
+
