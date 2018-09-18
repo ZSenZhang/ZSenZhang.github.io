@@ -41,13 +41,13 @@ Publications
 
 Honors & Awards
 ======
-* First prize, National mathematical contest in modeling(Country level) &nbsp &nbsp <i>2017</i>
-* Third prize, National physics competition (provincial level) &nbsp &nbsp <i>2016</i>
-* Chuntsung programme scholarship &nbsp &nbsp <i>2018</i>
-* Zhiyuan honours programme scholarship &nbsp &nbsp <i>2015-2017</i>
-* Zhiyuan ABC scholarship &nbsp &nbsp <i>2015-2017</i>
-* Merit student in Shanghaijiaotong University &nbsp &nbsp <i>2017</i>
-* Excellent league member in Shanghaijiaotong &nbsp &nbsp <i>2017</i>
+* First prize, National mathematical contest in modeling(Country level)  <i>2017</i>
+* Third prize, National physics competition (provincial level)  <i>2016</i>
+* Chuntsung programme scholarship  <i>2018</i>
+* Zhiyuan honours programme scholarship  <i>2015-2017</i>
+* Zhiyuan ABC scholarship  <i>2015-2017</i>
+* Merit student in Shanghaijiaotong University  <i>2017</i>
+* Excellent league member in Shanghaijiaotong  <i>2017</i>
 
 
 Leadership
