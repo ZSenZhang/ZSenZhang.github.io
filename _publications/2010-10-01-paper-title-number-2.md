@@ -1,16 +1,16 @@
 ---
-title: "Unraveling Impact of Critical Sensing Range on Mobile Camera Sensor Networks"
+title: "Here are some paper under reviewed. You can click to view."
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2018-01-01
-venue: 'the Transactions on Mobile Computing'
+excerpt: ''
+date: 
+venue: ''
 paperurl: 'http://zsenzhang.github.io/files/paper2.pdf'
-citation: 'Xiaohua Tian, Luoyi Fu, <b>Zesen Zhang</b>, Zhiying Xu, Jun Zhao, Xinbing Wang &quot;Unraveling Impact of Critical Sensing Range on Mobile Camera Sensor Networks.&quot; under reviewed by<i>the Transactions on Mobile Computing</i>. (<i>Contribution:</i> Make the experiment, help with some mathematical theory and write the revision letter to the reviewer.)'
+citation: ''
 ---
-This paper is about the number 3. The number 4 is left for future work.
+
 
 [Download paper here](http://zsenzhang.github.io/files/paper2.pdf)
 
-Recommended citation: Xiaohua Tian, Luoyi Fu, <b>Zesen Zhang</b>, Zhiying Xu, Jun Zhao, Xinbing Wang &quot;Unraveling Impact of Critical Sensing Range on Mobile Camera Sensor Networks.&quot; under reviewed by<i>the Transactions on Mobile Computing</i>.
+<!--Recommended citation: Xiaohua Tian, Luoyi Fu, <b>Zesen Zhang</b>, Zhiying Xu, Jun Zhao, Xinbing Wang &quot;Unraveling Impact of Critical Sensing Range on Mobile Camera Sensor Networks.&quot; under reviewed by<i>the Transactions on Mobile Computing</i>.-->
 
