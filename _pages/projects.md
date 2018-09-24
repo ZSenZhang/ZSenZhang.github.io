@@ -13,7 +13,7 @@ author_profile: true
 
 ### Intelligent mobile gray software detection and analysis system
 * Develop a website to detect the gray software in the Android system.
-* Transform the binary code into the gray graph and then use Neural Network to learn the graph. We get a 92\% accuracy in our project.
+* Transform the binary code into the gray graph and then use Neural Network to learn the graph. We get a 92% accuracy in our project.
 
 ### Face Detection Clock
 * Using opencv to detect people's face and eyes. Then embed the C++ program into the Android. Only when the camera detects the people's face and eyes will the clock stop.
