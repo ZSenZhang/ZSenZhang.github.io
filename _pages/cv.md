@@ -15,13 +15,13 @@ redirect_from:
 Education
 ======
 * **School of Cyber Security**, Shanghai Jiao Tong University, 09/2015 - present
-Major: Cyber Security
-GPA: 88.7/100(Overall)
-Ranking:11/101
+  * Major: Cyber Security
+  * GPA: 88.7/100(Overall)
+  * Ranking:11/101
 * **Zhiyuan College**, Shanghai Jiao Tong University, 09/2015 - present
-Zhiyuan Honors Program of Engineering(Top 5%)
+  * Zhiyuan Honors Program of Engineering(Top 5%)
 * **Antai College**, Shanghai Jiao Tong University, 03/2016-present
-Double Major in accountancy
+  * Double Major in accountancy
 
 Work experience
 ======
