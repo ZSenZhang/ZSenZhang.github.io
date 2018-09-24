@@ -13,3 +13,4 @@ This paper is about the number 1. The number 2 is left for future work.
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Fu, Luoyi; Fu, Xinzhe; <b> Zhang, Zesen</b>; Xu, Zhiying; Wu, Xudong; Wang, Xinbing; Lu, Songwu, &quot;Joint Optimization of Multicast Energy in Delay-constrained Mobile Wireless Networks&quot;. accepted by the <i> IEEE/ACM Transactions on Networking.</i> 
+
