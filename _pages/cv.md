@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Click to view my current vitae [PDF]](/files/ZesenZhang_EN.pdf)
+======
+
 Education
 ======
 * **School of Cyber Security**, Shanghai Jiao Tong University, 09/2015 - present
