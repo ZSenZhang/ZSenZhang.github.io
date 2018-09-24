@@ -11,23 +11,18 @@ author_profile: true
 * Implement the recommending algorithm for papers in Acemap, and present the result on website.
 * Build and maintain the server and the back-end for Acemap.
 
-### Academic Knowledge Graph System
-*  Cleaned and inferred on a huge academic dataset with billions of records including authors, papers, institutes and so on.
-*  Implement the Knowledge Graph System based on Jena framework consisting of TDB database and SPARQL engine, and present result and visualization on website.
-*  Implement network and triplet embedding algorithms including TransE, ComplEX, HolE and so on to predict and enrich records.
+### Intelligent mobile gray software detection and analysis system
+* Develop a website to detect the gray software in the Android system.
+* Transform the binary code into the gray graph and then use Neural Network to learn the graph. We get a 92\% accuracy in our project.
 
-### Large scale academic data visualization
-* Visualize academic graphs with over 1 million nodes, layout of which is done using an N-body simulation. In order to simplify time complexity, Barnes-Hut algorithm is used based on quad-tree data structure.
-* Modify source codes depending on Mysql C library, Cairo 2D graphics and Gtk+ 3.
+### Face Detection Clock
+* Using opencv to detect people's face and eyes. Then embed the C++ program into the Android. Only when the camera detects the people's face and eyes will the clock stop.
 
-### Linux Kernel Applications Development
-* Get understanding of how operating system works by developing Linux Kernel applications including adding vital system calls, dumping page table and completing page replacement algorithm.
-* Score 100/100, Rank 1/143
+### Encrypted communication system based on netfilter
+* Using the AES and RSA algorithm to encrypt and decrypt the information transfer between the client and server. And it can choose to encrypt the words based on a specific protocol(Like TCP or UDP).
 
-### Gene Chip Analysis
-* Explore algorithms including deep forest, random forest, SVM and deep neural network with greedy layer-wise pre training on Gene-Classification task
-* Score 96/100, Rank 2/84
+### Doctor Online 
+* A system for patients and doctors to communicate on the website and reduce the pressure of the hospital. Moreover, we embed a graph database in it to learn the suggestion given by doctors.
 
-### Articulated Pose Estimation Using Convolutional Pose Machines
-* Implements idea of paper ”Convolutional Pose Machines”, which designs CPMs consisting of a sequence of convolutional networks for the articulated pose estimation task.
-* Score 97/100, Rank 3/47
+### Picking the Match
+* Making a small game that can let people play with the computer or play together. Designed an algorithm for computer to play with poeple in the "easy" "medium" "hard" pattern.
