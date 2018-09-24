@@ -1,16 +1,15 @@
 ---
-title: "Joint Optimization of Multicast Energy in Delay-constrained Mobile Wireless Networks"
+title: "Evolving Information Cascading: Late Bird Matters"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 20018-01-01
-venue: 'IEEE/ACM Transactions on Networking'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Fu, Luoyi; Fu, Xinzhe; <b> Zhang, Zesen</b>; Xu, Zhiying; Wu, Xudong; Wang, Xinbing; Lu, Songwu, &quot;Joint Optimization of Multicast Energy in Delay-constrained Mobile Wireless Networks&quot;. accepted by the <i> IEEE/ACM Transactions on Networking.</i> (<i>Contribution:</i> Make the experiment, help with some mathematical theory and write the revision letter to the reviewer.)
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2018-01-01
+venue: 'IEEE INFOCOM 2019'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: '<b>Zesen Zhang</b>, Dongrui Lu, YinYou Li, Luoyi Fu, Guihai Chen  &quot;Evolving Information Cascading: Late Bird Matters.&quot; submitted to <i>IEEE INFOCOM 2019</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Fu, Luoyi; Fu, Xinzhe; <b> Zhang, Zesen</b>; Xu, Zhiying; Wu, Xudong; Wang, Xinbing; Lu, Songwu, &quot;Joint Optimization of Multicast Energy in Delay-constrained Mobile Wireless Networks&quot;. accepted by the <i> IEEE/ACM Transactions on Networking.</i> 
-
+Recommended citation: <b>Zesen Zhang</b>, Dongrui Lu, YinYou Li, Luoyi Fu, Guihai Chen  &quot;Evolving Information Cascading: Late Bird Matters.&quot; submitted to <i>IEEE INFOCOM 2019</i>.
