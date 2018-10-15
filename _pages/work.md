@@ -14,9 +14,9 @@ redirect_from:
   * <i>Aug 2018 - present</i>: Independent Research
   * Description: Nowadays, with the prevalence of massive social networks such as Myspace, Facebook, and WeChat, user privacy is being severely threatened. And as our life condition increased, people start to care about their information security. They don’t want to be bothered by a stranger so we need to protect their privacy. However, there is still a large gap between the user’s willingness to share information and their reaction to unintended parties viewing or using their information. So it need us to find a way to protect their information. **This study shows how to de-anonymize the identity of a person in an anonymized network using the mapping between two networks.**
   * Methods: Implemented the preferential attachment(PA) model to show the evolving character of social networks and discover the degree character. Showed the relationship between the subgraphs and the super-graph (a great index in the "seedless" method) via MAP index (made by Maximum Posterior Probability). Trying to use the single-arm bandit method to form the modified function contributed by the evolving characteristic of the network.
-<!-- 
 
-* Asymptotic Analysis and Privacy protection in Social Networks.
+
+<!-- * Asymptotic Analysis and Privacy protection in Social Networks.
   * <i>Aug 2018 - present</i>: Independent Research
   * Intelligent Internet of Things. SJTU
   * Description: This study shows how to de-anonymize the identity of a person in an anonymized network using the mapping between two networks.
@@ -62,8 +62,10 @@ redirect_from:
 ### Optimizing Multicast Energy in Mobile Wireless Networks 
 
   * <i>Mar 2017 - July 2017</i>: Research Assistant
-  * Description: With the surge of mobile data traffic, energy consumption in communication is rising radically in recent years. As reported by a survey where Telecom Italia is said to be the second largest consumer in Italy, energy consumption of mobile communication is already ranking the top. Hence, energy saving becomes a crucial issue that receives considerable attention in the design and implementation of mobile wireless networks. **This study proposes ConMap, a novel and general framework for efficient transmission scheme design that jointly optimizes both the transmitting and receiving energy.**
-  * Duties included: Helped develop the algorithm which especially focus on optimize the energy on both spread and receive sides. It makes a step to first add the energy of receive side into consideration and use Steiner tree to get the optimization result of designing minimum energy transmission scheme (DeMEM) problem. 
+  * Description: 
+    * With the surge of mobile data traffic, energy consumption in communication is rising radically in recent years. As reported by a survey where Telecom Italia is said to be the second largest consumer in Italy, energy consumption of mobile communication is already ranking the top. Hence, energy saving becomes a crucial issue that receives considerable attention in the design and implementation of mobile wireless networks. **This study proposes ConMap, a novel and general framework for efficient transmission scheme design that jointly optimizes both the transmitting and receiving energy.**
+  * Contribution: 
+    * Helped develop the algorithm which especially focus on optimize the energy on both spread and receive sides. It makes a step to first add the energy of receive side into consideration and use Steiner tree to get the optimization result of designing minimum energy transmission scheme (DeMEM) problem. 
     * Evaluated the performance and flexibility of ConMap framework based on three real datasets through SPT heuristic, MST heuristic and approximation algorithm. Argued with the reviewers and revised the paper. 
     * Improving the paper from "Major" to "Accept".
 
