@@ -12,11 +12,12 @@ redirect_from:
 <img src="images/DASW.jpg" width = "80%"/>
 
   * <i>Aug 2018 - present</i>: Independent Research
-  * Description: Nowadays, with the prevalence of massive social networks such as Myspace, Facebook, and WeChat, user privacy is being severely threatened. And as our life condition increased, people start to care about their information security. They don’t want to be bothered by a stranger so we need to protect their privacy. However, there is still a large gap between the user’s willingness to share information and their reaction to unintended parties viewing or using their information. So it need us to find a way to protect their information. **This study shows how to de-anonymize the identity of a person in an anonymized network using the mapping between two networks.**
+  * Description: 
+    * Nowadays, with the prevalence of massive social networks such as Myspace, Facebook, and WeChat, user privacy is being severely threatened. And as our life condition increased, people start to care about their information security. They don’t want to be bothered by a stranger so we need to protect their privacy. However, there is still a large gap between the user’s willingness to share information and their reaction to unintended parties viewing or using their information. So it need us to find a way to protect their information. **This study shows how to de-anonymize the identity of a person in an anonymized network using the mapping between two networks.**
   * Methods: 
-  * Implemented the preferential attachment(PA) model to show the evolving character of social networks and discover the degree character. 
-  * Showed the relationship between the subgraphs and the super-graph (a great index in the "seedless" method) via MAP index (made by Maximum Posterior Probability). 
-  * Trying to use the single-arm bandit method to form the modified function contributed by the evolving characteristic of the network.
+    * Implemented the preferential attachment(PA) model to show the evolving character of social networks and discover the degree character. 
+    * Showed the relationship between the subgraphs and the super-graph (a great index in the "seedless" method) via MAP index (made by Maximum Posterior Probability). 
+    * Trying to use the single-arm bandit method to form the modified function contributed by the evolving characteristic of the network.
 
 
 <!-- * Asymptotic Analysis and Privacy protection in Social Networks.
@@ -65,7 +66,7 @@ redirect_from:
     * Coverage, as a crucial performance metric, is commonly used in Wireless Sensor Networks (WSNs) in measurement of how well a target field is monitored by sensors. Intuitively, a better guarantee of coverage can lead to higher network controllability, and therefore manifests its importance in a wide range of control-aware applications such as security surveillance, traffic control and etc. As a kind of WSNs, Camera Sensor Networks (CSNs) have recently attracted an increasing amount of attention due to the significant ability of visual information collection, and consequently can provide more comprehensive and accurate information about real-time situation. **This study uses equivalent sensing radius (ESR) to unravel the critical requirement for asymptotic full view coverage in both static and mobile heterogeneous Camera Sensor Networks (CSNs).**
   * Contribution:
     * Analyzed the numerical results to validate the theoretical results on critical ESR to achieve full view coverage and investigated the relationship between ESR and the percentage of full view coverage.
-    * Arguing with the reviewers and revised the paper.
+    * Arguing with reviewers and revising the paper.
 
 
 ### Optimizing Multicast Energy in Mobile Wireless Networks 

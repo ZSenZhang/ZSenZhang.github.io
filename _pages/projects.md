@@ -12,14 +12,19 @@ author_profile: true
 * Build and maintain the server and the back-end for Acemap.
 
 ### Intelligent mobile gray software detection and analysis system
-* Develop a website to detect the gray software in the Android system.
-* Transform the binary code into the gray graph and then use Neural Network to learn the graph. We get a 92% accuracy in our project.
+* Developed and implemented the detection and analysis system for different users.
+* Applied 3 progressive methods to predict the possibility of gray apps and obtained 92\% accuracy.
+	* Decompiled the APK, analyzed user permission, intent action and category, then applied KNN for classification training.
+	* Transformed the binary code into the gray graph and used Neural Network to learn the graph.
+	* Installed the app in virtual machine for dynamic analysis based on Xposed.
+
+### Encrypted communication system based on netfilter
+* Designed a Firewall encryption system for data encryption and transfer in Linux.
+* Used DH, AES and RSA to encrypt and decrypt the information transfer between the client and server.
+* Established the visualization system for users to choose different encryption algorithms and encrypt the words based on a specific network protocol (Like TCP or UDP).
 
 ### Face Detection Clock
 * Using opencv to detect people's face and eyes. Then embed the C++ program into the Android. Only when the camera detects the people's face and eyes will the clock stop.
-
-### Encrypted communication system based on netfilter
-* Using the AES and RSA algorithm to encrypt and decrypt the information transfer between the client and server. And it can choose to encrypt the words based on a specific protocol(Like TCP or UDP).
 
 ### Doctor Online 
 * A system for patients and doctors to communicate on the website and reduce the pressure of the hospital. Moreover, we embed a graph database in it to learn the suggestion given by doctors.
