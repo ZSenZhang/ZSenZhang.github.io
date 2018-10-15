@@ -7,7 +7,7 @@ redirect_from:
   - /work_experience
 ---
 
-<img src="images/DASW.jpg" width = "80%"/>
+<img src="images/zesenzhang.jpg" width = "80%" />
 
 ### Asymptotic Analysis and Privacy protection in Social Networks.
 
