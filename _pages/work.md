@@ -39,10 +39,9 @@ redirect_from:
   * Verified the results of theoretical deduction in large-scale academic network. -->
 <!--   * Supervisor: Prof. Xingbin Wang, Prof. Luoyi Fu -->
 
-<img src="images/zesenzhang.jpg" width = "80%" />
-
 ### The Percolation of Rumor In the Evolving Social Network
 
+<img src='/images/IC.gif'>
 
   * <i>Jan 2018 - July 2018</i>: Independent Research
   * Description: 
@@ -94,7 +93,7 @@ redirect_from:
 
 ### Web Crawler and Design the Company's Website
 
-<img src="images/GHQD.jpeg" width="200%" />
+<img src='/images/GHQD.jpeg'/>
 
   * <i>June 2016 - July 2016</i>: Summer Intern
   * Duties included:
