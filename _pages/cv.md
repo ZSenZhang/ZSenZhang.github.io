@@ -49,9 +49,9 @@ Services
 
 Skills
 ======
-* Computer Languages <i>C/C++, Java, Python, html</i>
-* Language for Hardware  <i>C, Verilog VHDL;</i>
-* Other Tools  <i>MATLAB, LaTeX, Multisim</i>
+* Computer Languages: <i>C/C++, Java, Python, html</i>
+* Language for Hardware: <i>C, Verilog VHDL;</i>
+* Other Tools: <i>MATLAB, LaTeX, Multisim</i>
   
 <!-- Talks
 ======

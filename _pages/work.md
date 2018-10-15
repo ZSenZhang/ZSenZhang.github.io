@@ -7,9 +7,10 @@ redirect_from:
   - /work_experience
 ---
 
+<img src="images/DASW.jpg" width = "80%"/>
+
 ### Asymptotic Analysis and Privacy protection in Social Networks.
 
-<img src="images/DASW.jpg" width = "80%"/>
 
   * <i>Aug 2018 - present</i>: Independent Research
   * Description: 
