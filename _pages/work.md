@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <img src='/images/500x300.png'>
+new
 
 ### Asymptotic Analysis and Privacy protection in Social Networks.
 
