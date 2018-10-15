@@ -20,28 +20,9 @@ redirect_from:
     * Showed the relationship between the subgraphs and the super-graph (a great index in the "seedless" method) via MAP index (made by Maximum Posterior Probability). 
     * Trying to use the single-arm bandit method to form the modified function contributed by the evolving characteristic of the network.
 
-
-<!-- * Asymptotic Analysis and Privacy protection in Social Networks.
-  * <i>Aug 2018 - present</i>: Independent Research
-  * Intelligent Internet of Things. SJTU
-  * Description: This study shows how to de-anonymize the identity of a person in an anonymized network using the mapping between two networks.
-  * Implemented the preferential attachment(PA) model to show the evolving character of social networks and discover the degree character. 
-  * Showed the relationship between the subgraphs and the super-graph (a great index in the âseedlessâ method) via MAP index (made by Maximum Posterior Probability). 
-  * Trying to use the single-arm bandit method to form the modified function contributed by the evolving characteristic of the network.
-  * Supervisor: Prof. Xingbin Wang, Prof. Luoyi Fu -->
-
-<!-- * The Percolation of Rumor In the Evolving Social Network
-  * <i>Jan 2018 - July 2018</i>: Independent Research
-  * Intelligent Internet of Things. SJTU
-  * Description: This study shows the critical scale of "seed" that we need to percolate the influence to the whole network that is evloving.
-  * Used the reduction method to prove that finding the critical scale of "seed" to diffuse to the whole network in the general evolving network is an N-P hard problem.
-  * Applied the Markov process to portray the evolving process under the preferential attachment (PA) model and the Erdos-Renyi (ER) model which can form each step recursively. Then, applied the Taylor formula, the Stirling formula and the Azumza's inequality to prove that ln n (n is the number of vertexes in the network) seed is the only influence to the whole network.
-  * Verified the results of theoretical deduction in large-scale academic network. -->
-<!--   * Supervisor: Prof. Xingbin Wang, Prof. Luoyi Fu -->
-
 ### The Percolation of Rumor In the Evolving Social Network
 
-<img src='/images/IC.gif' height="50%" width="50%"> new
+<img src='/images/IC.gif' height="50%" width="50%">
 
   * <i>Jan 2018 - July 2018</i>: Independent Research
   * Description: 
@@ -52,15 +33,9 @@ redirect_from:
     * Applied the Taylor formula, the Stirling formula and the Azumza's inequality to prove that ln n (n is the number of vertexes in the network) seed is the only influence to the whole network. Verified the results of theoretical deduction in large-scale academic network.
   * This work had submitted to INFOCOM 2019
 
-<!-- ### Unraveling Impact of Critical Sensing Range on Mobile CSNs
-  * <i>Aug 2017 - Dec 2017</i>: Research Assistant
-  * Intelligent Internet of Things. SJTU
-  * Description: This study uses equivalent sensing radius (ESR) to unravel the critical requirement for asymptotic full view coverage in both static and mobile heterogeneous Camera Sensor Networks (CSNs).
-  * Duties included: Analyzed the numerical results to validate the theoretical results on critical ESR to achieve full view coverage and investigated the relationship between ESR and the percentage of full view coverage.
-  * Argued with the reviewers and revised the paper.
-  * Supervisor: Prof. Xingbin Wang, Prof. Luoyi Fu -->
-
 ### Unraveling Impact of Critical Sensing Range on Mobile CSNs
+
+<img src='/images/trygif' height="50%" width="50%">
 
   * <i>Aug 2017 - Dec 2017</i>: Research Assistant
   * Description: 
@@ -93,7 +68,7 @@ redirect_from:
 
 ### Web Crawler and Design the Company's Website
 
-<img src='/images/GHQD.jpeg' height="50%" width="50%"> new
+<img src='/images/GHQD.jpeg' height="50%" width="50%">
 
   * <i>June 2016 - July 2016</i>: Summer Intern
   * Duties included:
