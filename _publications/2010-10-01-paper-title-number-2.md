@@ -1,5 +1,5 @@
 ---
-title: "Here are some papers under reviewed. You can click here to view."
+title: "Here are some papers under review. You can click here to view."
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
