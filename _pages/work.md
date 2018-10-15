@@ -47,6 +47,8 @@ redirect_from:
 
 ### Optimizing Multicast Energy in Mobile Wireless Networks 
 
+<img src='/images/TMC.gif' height="50%" width="50%">
+
   * <i>Mar 2017 - July 2017</i>: Research Assistant
   * Description: 
     * With the surge of mobile data traffic, energy consumption in communication is rising radically in recent years. As reported by a survey where Telecom Italia is said to be the second largest consumer in Italy, energy consumption of mobile communication is already ranking the top. Hence, energy saving becomes a crucial issue that receives considerable attention in the design and implementation of mobile wireless networks. **This study proposes ConMap, a novel and general framework for efficient transmission scheme design that jointly optimizes both the transmitting and receiving energy.**
