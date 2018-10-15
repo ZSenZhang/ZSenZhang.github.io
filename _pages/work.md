@@ -7,11 +7,10 @@ redirect_from:
   - /work_experience
 ---
 
-<img src='/images/500x300.png'>
-new
 
 ### Asymptotic Analysis and Privacy protection in Social Networks.
 
+<img src='/images/UPTSN.gif'>
 
   * <i>Aug 2018 - present</i>: Independent Research
   * Description: 
