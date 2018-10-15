@@ -41,7 +41,7 @@ redirect_from:
 
 ### The Percolation of Rumor In the Evolving Social Network
 
-<img src='/images/IC.gif'>
+<img src='/images/IC.gif' height="50%" width="50%">
 
   * <i>Jan 2018 - July 2018</i>: Independent Research
   * Description: 
@@ -93,7 +93,7 @@ redirect_from:
 
 ### Web Crawler and Design the Company's Website
 
-<img src='/images/GHQD.jpeg'/>
+<img src='/images/GHQD.jpeg'/ height="60%">
 
   * <i>June 2016 - July 2016</i>: Summer Intern
   * Duties included:
