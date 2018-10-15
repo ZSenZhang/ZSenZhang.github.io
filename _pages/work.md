@@ -35,7 +35,7 @@ redirect_from:
 
 ### Unraveling Impact of Critical Sensing Range on Mobile CSNs
 
-<img src='/images/trygif' height="50%" width="50%">
+<img src='/images/trygif.m4v' height="50%" width="50%"> new
 
   * <i>Aug 2017 - Dec 2017</i>: Research Assistant
   * Description: 
