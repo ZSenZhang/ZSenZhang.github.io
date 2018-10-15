@@ -13,7 +13,7 @@ author_profile: true
 
 ### Intelligent mobile gray software detection and analysis system
 * Developed and implemented the detection and analysis system for different users.
-* Applied 3 progressive methods to predict the possibility of gray apps and obtained 92\% accuracy.
+* Applied 3 progressive methods to predict the possibility of gray apps and obtained 92% accuracy.
 	* Decompiled the APK, analyzed user permission, intent action and category, then applied KNN for classification training.
 	* Transformed the binary code into the gray graph and used Neural Network to learn the graph.
 	* Installed the app in virtual machine for dynamic analysis based on Xposed.

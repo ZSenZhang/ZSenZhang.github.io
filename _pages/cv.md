@@ -16,12 +16,9 @@ Education
 ======
 * **School of Cyber Security**, Shanghai Jiao Tong University, 09/2015 - present
   * Major: Cyber Security
-  * GPA: 88.7/100(Overall)
-  * Ranking:11/97
+  * GPA: 89/100
 * **Zhiyuan College**, Shanghai Jiao Tong University, 09/2015 - present
   * Zhiyuan Honors Program of Engineering(Top 5%)
-* **Antai College**, Shanghai Jiao Tong University, 03/2016-present
-  * Double Major in accountancy
 
 Publications
 ======
@@ -40,18 +37,19 @@ Honors & Awards
 * Excellent league member in Shanghaijiaotong  <i>2017</i>
 
 
-Leadership
+Services
 ======
-* Minister of Student union, SJTU  <i>June 2016 - May 2017</i>
+* **Reviewer** of: China Communication, Wireless Network, Transaction on Sensor Network
+* **Minister** of Student union, SJTU  <i>June 2016 - May 2017</i>
   * Got more than ten thousands fundings from sponsors to support our union.
   * Designed the school's New Year Party
-* Minister of table tennis association, SJTU
+* **Minister** of table tennis association, SJTU
   * Won the Third prize, National college student pingpong competition, 2017
   * Opened up an class to teach the union member play pingpong from July 2016- Aug 2016.
 
 Skills
 ======
-* Computer Languages  <i>Proficient in C/C++; Familiar with Java, Python, html</i>
+* Computer Languages <i>C/C++, Java, Python, html</i>
 * Language for Hardware  <i>C, Verilog VHDL;</i>
 * Other Tools  <i>MATLAB, LaTeX, Multisim</i>
   
