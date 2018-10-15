@@ -39,7 +39,7 @@ Honors & Awards
 
 Services
 ======
-* **Reviewer** of: China Communication, Wireless Network, Transaction on Sensor Network
+* **Reviewer** of: China Communications, Wireless Network, Transaction on Sensor Network
 * **Minister** of Student union, SJTU  <i>June 2016 - May 2017</i>
   * Got more than ten thousands fundings from sponsors to support our union.
   * Designed the school's New Year Party

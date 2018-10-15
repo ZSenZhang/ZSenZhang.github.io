@@ -3,12 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Work Experience"
+    url: /work/  
+
   - title: "Projects"
     url: /projects/    
 
-  - title: "Work Experience"
-    url: /work/    
-    
   # - title: "Portfolio"
   #   url: /portfolio/
         
@@ -20,3 +20,4 @@ main:
     
   - title: "Contacts"
     url: /contact/
+
