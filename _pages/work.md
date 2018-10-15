@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Asymptotic Analysis and Privacy protection in Social Networks.
-<img src="images/DASW.jpg" width = "200%" height="50%"/>
+<img src="images/DASW.jpg" width = "200%"/>
   * <i>Aug 2018 - present</i>: Independent Research
   * Description: Nowadays, with the prevalence of massive social networks such as Myspace, Facebook, and WeChat, user privacy is being severely threatened. And as our life condition increased, people start to care about their information security. They don’t want to be bothered by a stranger so we need to protect their privacy. However, there is still a large gap between the user’s willingness to share information and their reaction to unintended parties viewing or using their information. So it need us to find a way to protect their information. **This study shows how to de-anonymize the identity of a person in an anonymized network using the mapping between two networks.**
   * Methods: Implemented the preferential attachment(PA) model to show the evolving character of social networks and discover the degree character. Showed the relationship between the subgraphs and the super-graph (a great index in the "seedless" method) via MAP index (made by Maximum Posterior Probability). Trying to use the single-arm bandit method to form the modified function contributed by the evolving characteristic of the network.
