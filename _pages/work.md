@@ -93,7 +93,7 @@ redirect_from:
 
 ### Web Crawler and Design the Company's Website
 
-<img src='/images/GHQD.jpeg'/ height="50%"> new
+<img src='/images/GHQD.jpeg' height="50%" width="50%"> new
 
   * <i>June 2016 - July 2016</i>: Summer Intern
   * Duties included:
