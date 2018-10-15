@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-### Acemap: Academic Map System
+### Acemap: Academic Map System(https://acemap.info)
 
 * Develop visualizing applications for scholarly information networks and presentation approaches.
 * Implement the recommending algorithm for papers in Acemap, and present the result on website.
