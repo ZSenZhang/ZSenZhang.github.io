@@ -41,11 +41,11 @@ Services
 ======
 * **Reviewer** of: China Communications, Wireless Network, Transaction on Sensor Network
 * **Minister** of Student union, SJTU  <i>June 2016 - May 2017</i>
-  * Got more than ten thousands fundings from sponsors to support our union.
-  * Designed the school's New Year Party
+  * Got more than ten thousands funding from sponsors to support our union.
+  * Held school's New Year Party
 * **Minister** of table tennis association, SJTU
   * Won the Third prize, National college student pingpong competition, 2017
-  * Opened up an class to teach the union member play pingpong from July 2016- Aug 2016.
+  * Opened up an class to teach the union member play pingpong from <i>July 2016- Aug 2016</i>.
 
 Skills
 ======

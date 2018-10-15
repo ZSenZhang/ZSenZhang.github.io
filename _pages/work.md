@@ -39,7 +39,7 @@ redirect_from:
 
   * <i>Aug 2017 - Dec 2017</i>: Research Assistant
   * Description: 
-    * Coverage, as a crucial performance metric, is commonly used in Wireless Sensor Networks (WSNs) in measurement of how well a target field is monitored by sensors. Intuitively, a better guarantee of coverage can lead to higher network controllability, and therefore manifests its importance in a wide range of control-aware applications such as security surveillance, traffic control and etc. As a kind of WSNs, Camera Sensor Networks (CSNs) have recently attracted an increasing amount of attention due to the significant ability of visual information collection, and consequently can provide more comprehensive and accurate information about real-time situation. **This study uses equivalent sensing radius (ESR) to unravel the critical requirement for asymptotic full view coverage in both static and mobile heterogeneous Camera Sensor Networks (CSNs).**
+    * Coverage, as a crucial performance metric, is commonly used in Wireless Sensor Networks (WSNs) in measurement of how well a target field is monitored by sensors. Intuitively, a better guarantee of coverage can lead to higher network controllability, and therefore manifests its importance in a wide range of control-aware applications such as security surveillance, traffic control, etc. As a kind of WSNs, Camera Sensor Networks (CSNs) have recently attracted an increasing amount of attention due to the significant ability of visual information collection, and consequently can provide more comprehensive and accurate information about real-time situation. **This study uses equivalent sensing radius (ESR) to unravel the critical requirement for asymptotic full view coverage in both static and mobile heterogeneous Camera Sensor Networks (CSNs).**
   * Contribution:
     * Analyzed the numerical results to validate the theoretical results on critical ESR to achieve full view coverage and investigated the relationship between ESR and the percentage of full view coverage.
     * Arguing with reviewers and revising the paper.
@@ -74,6 +74,6 @@ redirect_from:
 
   * <i>June 2016 - July 2016</i>: Summer Intern
   * Duties included:
-    * Reptiling some English test from the website using python crawler.
-    * Designing the website of the QiDi's internal website.
+    * Reptilied some English test from the website using python crawler.
+    * Helped Design the website of the QiDi's internal website.
 
