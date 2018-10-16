@@ -10,7 +10,9 @@ redirect_from:
 
 ### Asymptotic Analysis and Privacy protection in Social Networks.
 
-<img src='/images/UPTSN.gif'>
+
+|<img src='/images/UPTSN.gif'>|
+|:--------:|
 
   * <i>Aug 2018 - present</i>: Independent Research
   * Description: 

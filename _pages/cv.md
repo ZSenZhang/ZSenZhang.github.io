@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to view my current vitae [PDF]](/files/ZesenZhang_EN.pdf)
+[Click to view my current vitae [PDF]](/files/ZesenZhang_CV.pdf)
 ======
 
 Education
