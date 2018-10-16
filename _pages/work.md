@@ -24,7 +24,9 @@ redirect_from:
 
 ### The Percolation of Rumor In the Evolving Social Network
 
-<img src='/images/IC.gif' height="50%" width="50%">
+
+|<img src='/images/IC.gif' height="50%" width="50%">|
+|:--------:|
 
   * <i>Jan 2018 - July 2018</i>: Independent Research
   * Description: 
@@ -37,7 +39,8 @@ redirect_from:
 
 ### Unraveling Impact of Critical Sensing Range on Mobile CSNs
 
-<img src='/images/TMC.gif' height="50%" width="50%">
+|<img src='/images/TMC.gif' height="50%" width="50%">|
+|:--------:|
 
   * <i>Aug 2017 - Dec 2017</i>: Research Assistant
   * Description: 
@@ -49,7 +52,8 @@ redirect_from:
 
 ### Optimizing Multicast Energy in Mobile Wireless Networks 
 
-<img src='/images/TON.gif' height="50%" width="50%">
+|<img src='/images/TON.gif' height="50%" width="50%">|
+|:--------:|
 
   * <i>Mar 2017 - July 2017</i>: Research Assistant
   * Description: 
@@ -72,7 +76,8 @@ redirect_from:
 
 ### Web Crawler and Design the Company's Website
 
-<img src='/images/GHQD.jpeg' height="50%" width="50%">
+|<img src='/images/GHQD.jpeg' height="50%" width="50%">|
+|:--------:|
 
   * <i>June 2016 - July 2016</i>: Summer Intern
   * Duties included:
