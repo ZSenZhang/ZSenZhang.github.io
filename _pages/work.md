@@ -61,22 +61,3 @@ redirect_from:
     * Improving the paper from "Major" to "Accept".
 
 
-
-<!-- * Optimizing Multicast Energy in Mobile Wireless Networks 
-  * <i>Mar 2017 - July 2017</i>: Research Assistant
-  * Intelligent Internet of Things. SJTU
-  * Description: This study proposes ConMap, a novel and general framework for efficient transmission scheme design that jointly optimizes both the transmitting and receiving energy.
-  * Duties included: Helped develop the algorithm which especially focus on optimize the energy on both spread and receive sides. It makes a step to first add the energy of receive side into consideration and use Steiner tree to get the optimization result of designing minimum energy transmission scheme (DeMEM) problem.
-  * Evaluated the performance and flexibility of ConMap framework based on three real datasets through SPT heuristic, MST heuristic and approximation algorithm.
-  * Argued with the reviewers and revised the paper. Improving the paper from "Major" to "Accept".
-  * Supervisor: Prof. Xingbin Wang, Prof. Luoyi Fu -->
-
-### Web Crawler and Design the Company's Website
-
-<img src='/images/GHQD.jpeg' height="50%" width="50%">
-
-  * <i>June 2016 - July 2016</i>: Summer Intern
-  * Duties included:
-    * Reptilied some English test from the website using python crawler.
-    * Helped Design the website of the QiDi's internal website.
-
