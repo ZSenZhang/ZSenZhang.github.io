@@ -17,6 +17,7 @@ Education
 * **School of Cyber Security**, Shanghai Jiao Tong University, 09/2015 - present
   * Major: Cyber Security
   * GPA: 89/100
+  * Rank: 6/97
 * **Zhiyuan College**, Shanghai Jiao Tong University, 09/2015 - present
   * Zhiyuan Honors Program of Engineering(Top 5%)
 
