@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Impact of Critical Sensing Range on Mobile Camera Sensor Networks"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-3
+permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: ''
 date: 2018-01-01
 venue: 'the Transactions on Mobile Computing'

@@ -1,7 +1,7 @@
 ---
 title: "Joint Optimization of Multicast Energy in Delay-constrained Mobile Wireless Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-3
 excerpt: ''
 date: 2018-01-01
 venue: 'IEEE/ACM Transactions on Networking'
