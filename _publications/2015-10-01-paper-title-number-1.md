@@ -3,7 +3,7 @@ title: "Unraveling Impact of Critical Sensing Range on Mobile Camera Sensor Netw
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-1
 excerpt: ''
-date: 2018-01-01
+date: 2016-01-01
 venue: 'the Transactions on Mobile Computing'
 paperurl: 'http://zsenzhang.github.io/files/paper3.pdf'
 citation: 'Xiaoying Gan, <b>Zesen Zhang</b>, Luoyi Fu, Xinbing Wang; Unraveling Impact of Critical Sensing Range on Mobile Camera Sensor Networks&quot; submitted to <i>the Transactions on Mobile Computing</i>'
